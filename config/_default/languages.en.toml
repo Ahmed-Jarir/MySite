@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Congo"
+title = "Ahmed Jarir"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -13,14 +13,12 @@ title = "Congo"
 dateFormat = "2 January 2006"
 
 [author]
-   title = "Ahmed Jarir"
    name = "Ahmed Jarir"
    image = "img/author.jpg"
-   bio = "hello"
    links = [
      { email = "mailto:ajareer20@ku.edu.tr" },
      { github = "https://github.com/Ahmed-Jarir" },
-      { linkedin = "https://www.linkedin.com/in/ahmed-jareer/" },
+     { linkedin = "https://www.linkedin.com/in/ahmed-jareer/" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },

@@ -12,11 +12,11 @@
 
 [[main]]
   name = "certificates"
-  pageRef = "posts"
+  pageRef = "certificates.md"
   weight = 10
 
 #[[main]]
-#  name = ""
+#  name = "Tags"
 #  pageRef = "posts"
 #  weight = 20
 
